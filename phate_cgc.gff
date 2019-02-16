@@ -1,0 +1,69 @@
+##gff-version 3
+LYP264_contig_1	phanotate	cds	1	144	+	.	unique call
+LYP264_contig_1	prodigal	cds	231	1	-	.	unique call
+LYP264_contig_1	phanotate	cds	265	402	+	.	unique call
+LYP264_contig_1	glimmer_phanotate	cds	539	991	+	.	multiple callers
+LYP264_contig_1	prodigal	cds	551	991	+	.	unique call
+LYP264_contig_1	all callers	cds	1295	1059	-	.	unanimous call
+LYP264_contig_1	all callers	cds	1767	1297	-	.	unanimous call
+LYP264_contig_1	glimmer	cds	3905	1764	-	.	unique call
+LYP264_contig_1	phanotate_prodigal	cds	4058	1764	-	.	multiple callers
+LYP264_contig_1	glimmer_prodigal	cds	4323	4048	-	.	multiple callers
+LYP264_contig_1	phanotate	cds	4359	4048	-	.	unique call
+LYP264_contig_1	glimmer	cds	4540	4307	-	.	unique call
+LYP264_contig_1	phanotate_prodigal	cds	4630	4307	-	.	multiple callers
+LYP264_contig_1	all callers	cds	4990	4658	-	.	unanimous call
+LYP264_contig_1	all callers	cds	5554	5054	-	.	unanimous call
+LYP264_contig_1	phanotate	cds	5748	5551	-	.	unique call
+LYP264_contig_1	all callers	cds	5996	5724	-	.	unanimous call
+LYP264_contig_1	phanotate	cds	6149	6000	-	.	unique call
+LYP264_contig_1	phanotate_prodigal	cds	6150	6443	+	.	multiple callers
+LYP264_contig_1	glimmer	cds	6483	7493	+	.	unique call
+LYP264_contig_1	phanotate_prodigal	cds	6513	7493	+	.	multiple callers
+LYP264_contig_1	glimmer_prodigal	cds	7733	7497	-	.	multiple callers
+LYP264_contig_1	phanotate	cds	7648	8052	+	.	unique call
+LYP264_contig_1	glimmer_prodigal	cds	7825	8052	+	.	multiple callers
+LYP264_contig_1	phanotate	cds	8065	8154	+	.	unique call
+LYP264_contig_1	phanotate	cds	8287	8192	-	.	unique call
+LYP264_contig_1	phanotate	cds	8387	8292	-	.	unique call
+LYP264_contig_1	phanotate_prodigal	cds	8640	8419	-	.	multiple callers
+LYP264_contig_1	all callers	cds	9895	8702	-	.	unanimous call
+LYP264_contig_1	all callers	cds	10362	9898	-	.	unanimous call
+LYP264_contig_1	phanotate_prodigal	cds	12803	10374	-	.	multiple callers
+LYP264_contig_1	glimmer	cds	12836	10374	-	.	unique call
+LYP264_contig_1	phanotate	cds	12915	12796	-	.	unique call
+LYP264_contig_1	all callers	cds	13229	12948	-	.	unanimous call
+LYP264_contig_1	all callers	cds	13811	13293	-	.	unanimous call
+LYP264_contig_1	all callers	cds	15011	13824	-	.	unanimous call
+LYP264_contig_1	all callers	cds	15654	15076	-	.	unanimous call
+LYP264_contig_1	glimmer	cds	15820	15665	-	.	unique call
+LYP264_contig_1	phanotate	cds	15681	16085	+	.	unique call
+LYP264_contig_1	all callers	cds	16100	16306	+	.	unanimous call
+LYP264_contig_1	all callers	cds	16736	16290	-	.	unanimous call
+LYP264_contig_1	all callers	cds	17698	16733	-	.	unanimous call
+LYP264_contig_1	glimmer	cds	18270	17695	-	.	unique call
+LYP264_contig_1	prodigal	cds	18306	17695	-	.	unique call
+LYP264_contig_1	phanotate	cds	18429	17695	-	.	unique call
+LYP264_contig_1	all callers	cds	19207	18299	-	.	unanimous call
+LYP264_contig_1	all callers	cds	19559	19212	-	.	unanimous call
+LYP264_contig_1	all callers	cds	20197	19556	-	.	unanimous call
+LYP264_contig_1	all callers	cds	20715	20266	-	.	unanimous call
+LYP264_contig_1	all callers	cds	21128	20712	-	.	unanimous call
+LYP264_contig_1	glimmer_phanotate	cds	21249	21091	-	.	multiple callers
+LYP264_contig_1	all callers	cds	21649	21236	-	.	unanimous call
+LYP264_contig_1	phanotate	cds	22098	21646	-	.	unique call
+LYP264_contig_1	glimmer	cds	22128	21646	-	.	unique call
+LYP264_contig_1	prodigal	cds	22155	21646	-	.	unique call
+LYP264_contig_1	glimmer	cds	22348	22139	-	.	unique call
+LYP264_contig_1	phanotate_prodigal	cds	22360	22139	-	.	multiple callers
+LYP264_contig_1	all callers	cds	22554	22351	-	.	unanimous call
+LYP264_contig_1	all callers	cds	23054	22554	-	.	unanimous call
+LYP264_contig_1	all callers	cds	23913	23152	-	.	unanimous call
+LYP264_contig_1	all callers	cds	25071	23917	-	.	unanimous call
+LYP264_contig_1	all callers	cds	25966	25103	-	.	unanimous call
+LYP264_contig_1	phanotate	cds	25967	26074	+	.	unique call
+LYP264_contig_1	phanotate_prodigal	cds	26131	27900	+	.	multiple callers
+LYP264_contig_1	glimmer	cds	26209	27900	+	.	unique call
+LYP264_contig_1	glimmer	cds	27891	28931	+	.	unique call
+LYP264_contig_1	phanotate_prodigal	cds	27900	28931	+	.	multiple callers
+LYP264_contig_1	phanotate	cds	28956	29078	+	.	unique call
