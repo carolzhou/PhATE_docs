@@ -1,0 +1,221 @@
+The following gene callers were considered: , glimmer , phanotate , prodigal 
+The number of distinct gene calls over all gene callers is 68
+The number of gene calls in common among all callers is 25
+The number of unique (non-matching) gene calls is 29
+Caller glimmer produced 40 gene calls.
+Caller glimmer gene-call length stats:  min: 156 , max: 2463 , ave: 642.225
+Caller phanotate produced 51 gene calls.
+Caller phanotate gene-call length stats:  min: 90 , max: 2430 , ave: 550.6470588235294
+Caller prodigal produced 41 gene calls.
+Caller prodigal gene-call length stats:  min: 204 , max: 2430 , ave: 644.7073170731708
+
+Gene-call Table:
+count	 caller	strand	leftEnd	rightEnd	length	contig	 caller	strand	leftEnd	rightEnd	length	contig	 caller	strand	leftEnd	rightEnd	length	contig	 
+1 	 						 phanotate	+	1	144	144	LYP264_contig_1	 						 
+2 	 						 						 prodigal	-	1	231	231	LYP264_contig_1	 
+3 	 						 phanotate	+	265	402	138	LYP264_contig_1	 						 
+4 	 glimmer	+	539	991	453	LYP264_contig_1	 phanotate	+	539	991	453	LYP264_contig_1	 						 
+5 	 						 						 prodigal	+	551	991	441	LYP264_contig_1	 
+6 	 glimmer	-	1059	1295	237	LYP264_contig_1	 phanotate	-	1059	1295	237	LYP264_contig_1	 prodigal	-	1059	1295	237	LYP264_contig_1	 
+7 	 glimmer	-	1297	1767	471	LYP264_contig_1	 phanotate	-	1297	1767	471	LYP264_contig_1	 prodigal	-	1297	1767	471	LYP264_contig_1	 
+8 	 glimmer	-	1764	3905	2142	LYP264_contig_1	 						 						 
+9 	 						 phanotate	-	1764	4058	2295	LYP264_contig_1	 prodigal	-	1764	4058	2295	LYP264_contig_1	 
+10 	 glimmer	-	4048	4323	276	LYP264_contig_1	 						 prodigal	-	4048	4323	276	LYP264_contig_1	 
+11 	 						 phanotate	-	4048	4359	312	LYP264_contig_1	 						 
+12 	 glimmer	-	4307	4540	234	LYP264_contig_1	 						 						 
+13 	 						 phanotate	-	4307	4630	324	LYP264_contig_1	 prodigal	-	4307	4630	324	LYP264_contig_1	 
+14 	 glimmer	-	4658	4990	333	LYP264_contig_1	 phanotate	-	4658	4990	333	LYP264_contig_1	 prodigal	-	4658	4990	333	LYP264_contig_1	 
+15 	 glimmer	-	5054	5554	501	LYP264_contig_1	 phanotate	-	5054	5554	501	LYP264_contig_1	 prodigal	-	5054	5554	501	LYP264_contig_1	 
+16 	 						 phanotate	-	5551	5748	198	LYP264_contig_1	 						 
+17 	 glimmer	-	5724	5996	273	LYP264_contig_1	 phanotate	-	5724	5996	273	LYP264_contig_1	 prodigal	-	5724	5996	273	LYP264_contig_1	 
+18 	 						 phanotate	-	6000	6149	150	LYP264_contig_1	 						 
+19 	 						 phanotate	+	6150	6443	294	LYP264_contig_1	 prodigal	+	6150	6443	294	LYP264_contig_1	 
+20 	 glimmer	+	6483	7493	1011	LYP264_contig_1	 						 						 
+21 	 						 phanotate	+	6513	7493	981	LYP264_contig_1	 prodigal	+	6513	7493	981	LYP264_contig_1	 
+22 	 glimmer	-	7497	7733	237	LYP264_contig_1	 						 prodigal	-	7497	7733	237	LYP264_contig_1	 
+23 	 						 phanotate	+	7648	8052	405	LYP264_contig_1	 						 
+24 	 glimmer	+	7825	8052	228	LYP264_contig_1	 						 prodigal	+	7825	8052	228	LYP264_contig_1	 
+25 	 						 phanotate	+	8065	8154	90	LYP264_contig_1	 						 
+26 	 						 phanotate	-	8192	8287	96	LYP264_contig_1	 						 
+27 	 						 phanotate	-	8292	8387	96	LYP264_contig_1	 						 
+28 	 						 phanotate	-	8419	8640	222	LYP264_contig_1	 prodigal	-	8419	8640	222	LYP264_contig_1	 
+29 	 glimmer	-	8702	9895	1194	LYP264_contig_1	 phanotate	-	8702	9895	1194	LYP264_contig_1	 prodigal	-	8702	9895	1194	LYP264_contig_1	 
+30 	 glimmer	-	9898	10362	465	LYP264_contig_1	 phanotate	-	9898	10362	465	LYP264_contig_1	 prodigal	-	9898	10362	465	LYP264_contig_1	 
+31 	 						 phanotate	-	10374	12803	2430	LYP264_contig_1	 prodigal	-	10374	12803	2430	LYP264_contig_1	 
+32 	 glimmer	-	10374	12836	2463	LYP264_contig_1	 						 						 
+33 	 						 phanotate	-	12796	12915	120	LYP264_contig_1	 						 
+34 	 glimmer	-	12948	13229	282	LYP264_contig_1	 phanotate	-	12948	13229	282	LYP264_contig_1	 prodigal	-	12948	13229	282	LYP264_contig_1	 
+35 	 glimmer	-	13293	13811	519	LYP264_contig_1	 phanotate	-	13293	13811	519	LYP264_contig_1	 prodigal	-	13293	13811	519	LYP264_contig_1	 
+36 	 glimmer	-	13824	15011	1188	LYP264_contig_1	 phanotate	-	13824	15011	1188	LYP264_contig_1	 prodigal	-	13824	15011	1188	LYP264_contig_1	 
+37 	 glimmer	-	15076	15654	579	LYP264_contig_1	 phanotate	-	15076	15654	579	LYP264_contig_1	 prodigal	-	15076	15654	579	LYP264_contig_1	 
+38 	 glimmer	-	15665	15820	156	LYP264_contig_1	 						 						 
+39 	 						 phanotate	+	15681	16085	405	LYP264_contig_1	 						 
+40 	 glimmer	+	16100	16306	207	LYP264_contig_1	 phanotate	+	16100	16306	207	LYP264_contig_1	 prodigal	+	16100	16306	207	LYP264_contig_1	 
+41 	 glimmer	-	16290	16736	447	LYP264_contig_1	 phanotate	-	16290	16736	447	LYP264_contig_1	 prodigal	-	16290	16736	447	LYP264_contig_1	 
+42 	 glimmer	-	16733	17698	966	LYP264_contig_1	 phanotate	-	16733	17698	966	LYP264_contig_1	 prodigal	-	16733	17698	966	LYP264_contig_1	 
+43 	 glimmer	-	17695	18270	576	LYP264_contig_1	 						 						 
+44 	 						 						 prodigal	-	17695	18306	612	LYP264_contig_1	 
+45 	 						 phanotate	-	17695	18429	735	LYP264_contig_1	 						 
+46 	 glimmer	-	18299	19207	909	LYP264_contig_1	 phanotate	-	18299	19207	909	LYP264_contig_1	 prodigal	-	18299	19207	909	LYP264_contig_1	 
+47 	 glimmer	-	19212	19559	348	LYP264_contig_1	 phanotate	-	19212	19559	348	LYP264_contig_1	 prodigal	-	19212	19559	348	LYP264_contig_1	 
+48 	 glimmer	-	19556	20197	642	LYP264_contig_1	 phanotate	-	19556	20197	642	LYP264_contig_1	 prodigal	-	19556	20197	642	LYP264_contig_1	 
+49 	 glimmer	-	20266	20715	450	LYP264_contig_1	 phanotate	-	20266	20715	450	LYP264_contig_1	 prodigal	-	20266	20715	450	LYP264_contig_1	 
+50 	 glimmer	-	20712	21128	417	LYP264_contig_1	 phanotate	-	20712	21128	417	LYP264_contig_1	 prodigal	-	20712	21128	417	LYP264_contig_1	 
+51 	 glimmer	-	21091	21249	159	LYP264_contig_1	 phanotate	-	21091	21249	159	LYP264_contig_1	 						 
+52 	 glimmer	-	21236	21649	414	LYP264_contig_1	 phanotate	-	21236	21649	414	LYP264_contig_1	 prodigal	-	21236	21649	414	LYP264_contig_1	 
+53 	 						 phanotate	-	21646	22098	453	LYP264_contig_1	 						 
+54 	 glimmer	-	21646	22128	483	LYP264_contig_1	 						 						 
+55 	 						 						 prodigal	-	21646	22155	510	LYP264_contig_1	 
+56 	 glimmer	-	22139	22348	210	LYP264_contig_1	 						 						 
+57 	 						 phanotate	-	22139	22360	222	LYP264_contig_1	 prodigal	-	22139	22360	222	LYP264_contig_1	 
+58 	 glimmer	-	22351	22554	204	LYP264_contig_1	 phanotate	-	22351	22554	204	LYP264_contig_1	 prodigal	-	22351	22554	204	LYP264_contig_1	 
+59 	 glimmer	-	22554	23054	501	LYP264_contig_1	 phanotate	-	22554	23054	501	LYP264_contig_1	 prodigal	-	22554	23054	501	LYP264_contig_1	 
+60 	 glimmer	-	23152	23913	762	LYP264_contig_1	 phanotate	-	23152	23913	762	LYP264_contig_1	 prodigal	-	23152	23913	762	LYP264_contig_1	 
+61 	 glimmer	-	23917	25071	1155	LYP264_contig_1	 phanotate	-	23917	25071	1155	LYP264_contig_1	 prodigal	-	23917	25071	1155	LYP264_contig_1	 
+62 	 glimmer	-	25103	25966	864	LYP264_contig_1	 phanotate	-	25103	25966	864	LYP264_contig_1	 prodigal	-	25103	25966	864	LYP264_contig_1	 
+63 	 						 phanotate	+	25967	26074	108	LYP264_contig_1	 						 
+64 	 						 phanotate	+	26131	27900	1770	LYP264_contig_1	 prodigal	+	26131	27900	1770	LYP264_contig_1	 
+65 	 glimmer	+	26209	27900	1692	LYP264_contig_1	 						 						 
+66 	 glimmer	+	27891	28931	1041	LYP264_contig_1	 						 						 
+67 	 						 phanotate	+	27900	28931	1032	LYP264_contig_1	 prodigal	+	27900	28931	1032	LYP264_contig_1	 
+68 	 						 phanotate	+	28956	29078	123	LYP264_contig_1	 						 
+
+Gene-call Scores:
+Caller	 Contig	 Gene No.	 Left End	 Right End	 Strand	 gcScore
+phanotate 	 LYP264_contig_1 	 1 	 1 	 144 	 + 	 0.33
+prodigal 	 LYP264_contig_1 	 1 	 1 	 231 	 - 	 0.33
+phanotate 	 LYP264_contig_1 	 2 	 265 	 402 	 + 	 0.33
+glimmer 	 LYP264_contig_1 	 1 	 539 	 991 	 + 	 0.83
+phanotate 	 LYP264_contig_1 	 3 	 539 	 991 	 + 	 0.83
+prodigal 	 LYP264_contig_1 	 2 	 551 	 991 	 + 	 0.50
+glimmer 	 LYP264_contig_1 	 2 	 1059 	 1295 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 4 	 1059 	 1295 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 3 	 1059 	 1295 	 - 	 1.00
+glimmer 	 LYP264_contig_1 	 3 	 1297 	 1767 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 5 	 1297 	 1767 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 4 	 1297 	 1767 	 - 	 1.00
+glimmer 	 LYP264_contig_1 	 4 	 1764 	 3905 	 - 	 0.50
+phanotate 	 LYP264_contig_1 	 6 	 1764 	 4058 	 - 	 0.83
+prodigal 	 LYP264_contig_1 	 5 	 1764 	 4058 	 - 	 0.83
+glimmer 	 LYP264_contig_1 	 5 	 4048 	 4323 	 - 	 0.83
+prodigal 	 LYP264_contig_1 	 6 	 4048 	 4323 	 - 	 0.83
+phanotate 	 LYP264_contig_1 	 7 	 4048 	 4359 	 - 	 0.50
+glimmer 	 LYP264_contig_1 	 6 	 4307 	 4540 	 - 	 0.50
+phanotate 	 LYP264_contig_1 	 8 	 4307 	 4630 	 - 	 0.83
+prodigal 	 LYP264_contig_1 	 7 	 4307 	 4630 	 - 	 0.83
+glimmer 	 LYP264_contig_1 	 7 	 4658 	 4990 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 9 	 4658 	 4990 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 8 	 4658 	 4990 	 - 	 1.00
+glimmer 	 LYP264_contig_1 	 8 	 5054 	 5554 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 10 	 5054 	 5554 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 9 	 5054 	 5554 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 11 	 5551 	 5748 	 - 	 0.33
+glimmer 	 LYP264_contig_1 	 9 	 5724 	 5996 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 12 	 5724 	 5996 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 10 	 5724 	 5996 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 13 	 6000 	 6149 	 - 	 0.33
+phanotate 	 LYP264_contig_1 	 14 	 6150 	 6443 	 + 	 0.83
+prodigal 	 LYP264_contig_1 	 11 	 6150 	 6443 	 + 	 0.83
+glimmer 	 LYP264_contig_1 	 10 	 6483 	 7493 	 + 	 0.50
+phanotate 	 LYP264_contig_1 	 15 	 6513 	 7493 	 + 	 0.83
+prodigal 	 LYP264_contig_1 	 12 	 6513 	 7493 	 + 	 0.83
+glimmer 	 LYP264_contig_1 	 11 	 7497 	 7733 	 - 	 0.83
+prodigal 	 LYP264_contig_1 	 13 	 7497 	 7733 	 - 	 0.83
+phanotate 	 LYP264_contig_1 	 16 	 7648 	 8052 	 + 	 0.50
+glimmer 	 LYP264_contig_1 	 12 	 7825 	 8052 	 + 	 0.83
+prodigal 	 LYP264_contig_1 	 14 	 7825 	 8052 	 + 	 0.83
+phanotate 	 LYP264_contig_1 	 17 	 8065 	 8154 	 + 	 0.33
+phanotate 	 LYP264_contig_1 	 18 	 8192 	 8287 	 - 	 0.33
+phanotate 	 LYP264_contig_1 	 19 	 8292 	 8387 	 - 	 0.33
+phanotate 	 LYP264_contig_1 	 20 	 8419 	 8640 	 - 	 0.83
+prodigal 	 LYP264_contig_1 	 15 	 8419 	 8640 	 - 	 0.83
+glimmer 	 LYP264_contig_1 	 13 	 8702 	 9895 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 21 	 8702 	 9895 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 16 	 8702 	 9895 	 - 	 1.00
+glimmer 	 LYP264_contig_1 	 14 	 9898 	 10362 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 22 	 9898 	 10362 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 17 	 9898 	 10362 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 23 	 10374 	 12803 	 - 	 0.83
+prodigal 	 LYP264_contig_1 	 18 	 10374 	 12803 	 - 	 0.83
+glimmer 	 LYP264_contig_1 	 15 	 10374 	 12836 	 - 	 0.50
+phanotate 	 LYP264_contig_1 	 24 	 12796 	 12915 	 - 	 0.33
+glimmer 	 LYP264_contig_1 	 16 	 12948 	 13229 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 25 	 12948 	 13229 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 19 	 12948 	 13229 	 - 	 1.00
+glimmer 	 LYP264_contig_1 	 17 	 13293 	 13811 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 26 	 13293 	 13811 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 20 	 13293 	 13811 	 - 	 1.00
+glimmer 	 LYP264_contig_1 	 18 	 13824 	 15011 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 27 	 13824 	 15011 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 21 	 13824 	 15011 	 - 	 1.00
+glimmer 	 LYP264_contig_1 	 19 	 15076 	 15654 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 28 	 15076 	 15654 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 22 	 15076 	 15654 	 - 	 1.00
+glimmer 	 LYP264_contig_1 	 20 	 15665 	 15820 	 - 	 0.33
+phanotate 	 LYP264_contig_1 	 29 	 15681 	 16085 	 + 	 0.33
+glimmer 	 LYP264_contig_1 	 21 	 16100 	 16306 	 + 	 1.00
+phanotate 	 LYP264_contig_1 	 30 	 16100 	 16306 	 + 	 1.00
+prodigal 	 LYP264_contig_1 	 23 	 16100 	 16306 	 + 	 1.00
+glimmer 	 LYP264_contig_1 	 22 	 16290 	 16736 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 31 	 16290 	 16736 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 24 	 16290 	 16736 	 - 	 1.00
+glimmer 	 LYP264_contig_1 	 23 	 16733 	 17698 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 32 	 16733 	 17698 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 25 	 16733 	 17698 	 - 	 1.00
+glimmer 	 LYP264_contig_1 	 24 	 17695 	 18270 	 - 	 0.50
+prodigal 	 LYP264_contig_1 	 26 	 17695 	 18306 	 - 	 0.50
+phanotate 	 LYP264_contig_1 	 33 	 17695 	 18429 	 - 	 0.50
+glimmer 	 LYP264_contig_1 	 25 	 18299 	 19207 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 34 	 18299 	 19207 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 27 	 18299 	 19207 	 - 	 1.00
+glimmer 	 LYP264_contig_1 	 26 	 19212 	 19559 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 35 	 19212 	 19559 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 28 	 19212 	 19559 	 - 	 1.00
+glimmer 	 LYP264_contig_1 	 27 	 19556 	 20197 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 36 	 19556 	 20197 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 29 	 19556 	 20197 	 - 	 1.00
+glimmer 	 LYP264_contig_1 	 28 	 20266 	 20715 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 37 	 20266 	 20715 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 30 	 20266 	 20715 	 - 	 1.00
+glimmer 	 LYP264_contig_1 	 29 	 20712 	 21128 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 38 	 20712 	 21128 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 31 	 20712 	 21128 	 - 	 1.00
+glimmer 	 LYP264_contig_1 	 30 	 21091 	 21249 	 - 	 0.83
+phanotate 	 LYP264_contig_1 	 39 	 21091 	 21249 	 - 	 0.83
+glimmer 	 LYP264_contig_1 	 31 	 21236 	 21649 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 40 	 21236 	 21649 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 32 	 21236 	 21649 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 41 	 21646 	 22098 	 - 	 0.50
+glimmer 	 LYP264_contig_1 	 32 	 21646 	 22128 	 - 	 0.50
+prodigal 	 LYP264_contig_1 	 33 	 21646 	 22155 	 - 	 0.50
+glimmer 	 LYP264_contig_1 	 33 	 22139 	 22348 	 - 	 0.50
+phanotate 	 LYP264_contig_1 	 42 	 22139 	 22360 	 - 	 0.83
+prodigal 	 LYP264_contig_1 	 34 	 22139 	 22360 	 - 	 0.83
+glimmer 	 LYP264_contig_1 	 34 	 22351 	 22554 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 43 	 22351 	 22554 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 35 	 22351 	 22554 	 - 	 1.00
+glimmer 	 LYP264_contig_1 	 35 	 22554 	 23054 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 44 	 22554 	 23054 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 36 	 22554 	 23054 	 - 	 1.00
+glimmer 	 LYP264_contig_1 	 36 	 23152 	 23913 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 45 	 23152 	 23913 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 37 	 23152 	 23913 	 - 	 1.00
+glimmer 	 LYP264_contig_1 	 37 	 23917 	 25071 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 46 	 23917 	 25071 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 38 	 23917 	 25071 	 - 	 1.00
+glimmer 	 LYP264_contig_1 	 38 	 25103 	 25966 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 47 	 25103 	 25966 	 - 	 1.00
+prodigal 	 LYP264_contig_1 	 39 	 25103 	 25966 	 - 	 1.00
+phanotate 	 LYP264_contig_1 	 48 	 25967 	 26074 	 + 	 0.33
+phanotate 	 LYP264_contig_1 	 49 	 26131 	 27900 	 + 	 0.83
+prodigal 	 LYP264_contig_1 	 40 	 26131 	 27900 	 + 	 0.83
+glimmer 	 LYP264_contig_1 	 39 	 26209 	 27900 	 + 	 0.50
+glimmer 	 LYP264_contig_1 	 40 	 27891 	 28931 	 + 	 0.50
+phanotate 	 LYP264_contig_1 	 50 	 27900 	 28931 	 + 	 0.83
+prodigal 	 LYP264_contig_1 	 41 	 27900 	 28931 	 + 	 0.83
+phanotate 	 LYP264_contig_1 	 51 	 28956 	 29078 	 + 	 0.33
+
+Gene-call Consensus Scores:
+Caller glimmer gene-call consensus score: 0.85
+Caller phanotate gene-call consensus score: 0.78
+Caller prodigal gene-call consensus score: 0.90
